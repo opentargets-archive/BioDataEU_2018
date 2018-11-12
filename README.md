@@ -1,8 +1,9 @@
-# Wellcome Genome Campus Hackathon (BioDataHack_2018)
-## 2-3 July 2018
-Two-day event hosted on the Genome Campus with an opportunity to creatively and collaboratively address challenges in the sphere of genomes and biodata.
+# BioDataWorld Congress 2018 (BioDataEU_2018)
+## 28 November 2018
+One day event hosted at the Basel Congress Center with an opportunity to creatively and collaboratively address challenges in target identification and validation.
 
 ## The Open Targets challenge
+Explore relationships between individual variables and clinical success.
 how can we predict opportunities to repurpose drugs to treat unmet patient need?
 
 Join this challenge if you have one or more skills listed below:
@@ -17,5 +18,5 @@ Join this challenge if you have one or more skills listed below:
 
 ## Description of the project and access to the datasets
 
-The description of the project and links to the datasets for the challenge can be found [in the Wiki](https://github.com/opentargets/BioDataHack_2018/wiki).
+The description of the project and links to the datasets for the challenge can be found [in the Wiki](https://github.com/opentargets/BioDataEU_2018/wiki).
 
